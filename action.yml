@@ -1,3 +1,7 @@
 name: 'Action Dummy'
 author: 'Shubham Jain'
 description: 'Does nothing'
+
+branding:
+  icon: 'camera'
+  color: 'green'
